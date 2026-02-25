@@ -44,11 +44,11 @@ Currently deep in:
 
 ## `$ htop` — GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shub-saini7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shub-saini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shub-saini7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9c&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shub-saini&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9c&text_color=c9d1d9)
 
-![Streak](https://streak-stats.demolab.com?user=shub-saini7&theme=dark&hide_border=true&background=0D0D0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
+![Streak](https://streak-stats.demolab.com?user=shub-saini&theme=dark&hide_border=true&background=0D0D0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
 </td>
 </tr>
