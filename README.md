@@ -45,15 +45,6 @@ Currently leveling up in:
 
 ---
 
-## 🔥 Featured Projects
-
-### 🚀 CI/CD Pipeline to EC2 with Docker
-Containerized Next.js app → GitHub Actions → Docker Hub → EC2 deployment.
-
-Tech: Docker, GitHub Actions, AWS EC2
-
----
-
 ## 📈 What I Care About
 
 - Clean infrastructure
